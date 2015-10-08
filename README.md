@@ -9,6 +9,7 @@ Installation
 
 1. Download the GJC Calendar Chrome Extension powered by SnapDev Zip File
 2. Extract the File. Right click and choose extract to....
+<img src="http://cdn-careers.sstatic.net/careers/gethired/img/companypageadfallback-leaderboard-2.png?v=59b591051ad7">
 3. Open a Google Chrome browser.
 4. Go to Customize and Control Click the icon. Upper Right Corner
 5. Choose More Tools --> Extension  or enter to URL chrome://extensions/
