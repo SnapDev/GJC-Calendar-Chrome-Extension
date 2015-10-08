@@ -9,7 +9,7 @@ Installation
 
 1. Download the GJC Calendar Chrome Extension powered by SnapDev Zip File
 2. Extract the File. Right click and choose extract to....
-<img src="https://lh4.googleusercontent.com/Bwz_7aQ0-Rnv_8rWzPm3RVsAt_3I7GpoAI2LXLS87byZU3akl940ffnsJ4-uWXpWydpKkg=w1656-h829"  />
+<img width="100px" src="https://lh4.googleusercontent.com/Bwz_7aQ0-Rnv_8rWzPm3RVsAt_3I7GpoAI2LXLS87byZU3akl940ffnsJ4-uWXpWydpKkg=w1656-h829"  />
 3. Open a Google Chrome browser.
 4. Go to Customize and Control Click the icon. Upper Right Corner
 5. Choose More Tools --> Extension  or enter to URL chrome://extensions/
